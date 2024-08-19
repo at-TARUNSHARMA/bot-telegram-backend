@@ -6,8 +6,4 @@ import { AdminService } from './admin.service';
   controllers: [AdminController],
   providers: [AdminService]
 })
-<<<<<<< HEAD
 export class AdminModule {}
-=======
-export class AdminModule {}
->>>>>>> conflict-resoving-branch
